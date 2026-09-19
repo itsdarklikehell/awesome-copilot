@@ -10,6 +10,13 @@ A community-created collection of custom agents, instructions, skills, hooks, wo
 >
 > **Using this collection in an AI agent?** A machine-readable [`llms.txt`](https://awesome-copilot.github.com/llms.txt) is available with structured listings of all agents, instructions, and skills.
 
+---
+
+## Development Visualization
+
+<video src="https://github.com/itsdarklikehell/awesome-copilot/assets/example.com/123456/gource.mp4" controls width="100%"></video>
+
+*Gource visualization showing the repository's commit history. See the [Gource workflow](.github/workflows/gource.yml) for details.*
 ## 📖 Learning Hub
 
 New to GitHub Copilot customization? The **[Learning Hub](https://awesome-copilot.github.com/learning-hub)** on the website offers curated articles, walkthroughs, and reference material — covering everything from core concepts like agents, skills, and instructions to hands-on guides for hooks, agentic workflows, MCP servers, and the Copilot coding agent.
