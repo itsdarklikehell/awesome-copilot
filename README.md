@@ -1,4 +1,11 @@
 # 🤖 Awesome GitHub Copilot
+
+[![CI](https://github.com/itsdarklikehell/awesome-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/itsdarklikehell/awesome-copilot/actions/workflows/ci.yml)
+[![Gource](https://github.com/itsdarklikehell/awesome-copilot/actions/workflows/gource.yml/badge.svg)](https://github.com/itsdarklikehell/awesome-copilot/actions/workflows/gource.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/itsdarklikehell/awesome-copilot)](https://github.com/itsdarklikehell/awesome-copilot/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/itsdarklikehell/awesome-copilot)](https://github.com/itsdarklikehell/awesome-copilot/pulls)
+
 [![Powered by Awesome Copilot](https://img.shields.io/badge/Powered_by-Awesome_Copilot-blue?logo=githubcopilot)](https://aka.ms/awesome-github-copilot) [![GitHub contributors from allcontributors.org](https://img.shields.io/github/all-contributors/github/awesome-copilot?color=ee8449)](#contributors-)
 
 A community-created collection of custom agents, instructions, skills, hooks, workflows, and plugins to supercharge your GitHub Copilot experience.
